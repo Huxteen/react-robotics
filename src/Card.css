@@ -1,7 +1,7 @@
-.card-bg {
+.card-container {
     background: rgb(35, 166, 186);
-
+    color: #09152D;
 }
-.card-bg:hover{
+.card-container:hover{
     cursor: pointer;
 }
