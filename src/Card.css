@@ -1,0 +1,7 @@
+.card-bg {
+    background: rgb(35, 166, 186);
+
+}
+.card-bg:hover{
+    cursor: pointer;
+}
